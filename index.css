@@ -1,0 +1,78 @@
+body{
+   background-image: url(./images.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.container{
+   color: white;
+}
+
+#title{
+   font-size: 40px;
+   text-align: center;
+
+}
+
+#p1{
+   font-style: italic;
+   font-size: 25px;
+   text-align: center;
+}
+
+form{
+   background-color: rgb(48, 172, 194);
+   color: white;
+   width: 60%;
+   margin: auto;
+   border-radius: 10px;
+   text-align: center;
+  
+}
+
+.labels{
+   display: flex;
+   flex-direction: column;
+   width: 60%;
+   padding: 50px;
+   margin: 100px;
+   font-size: 20px;
+}
+
+input{
+   padding: 10px;
+   margin: 10px;
+   
+}
+
+.labels>label{
+   margin: 4px 10px;
+   text-align: left;
+}
+
+#p2{
+   margin-top: -120px;
+   font-size: 20px;
+   margin-left: -20px;
+}
+
+#dropdown{
+   width: 410px;
+   padding: 10px;
+   margin-left: 15px;
+   margin-top: -20px;
+
+}
+
+.radio{
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+}
+
+
+
+
+
+
+
